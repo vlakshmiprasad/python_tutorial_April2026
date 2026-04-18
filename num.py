@@ -1,0 +1,13 @@
+import numpy as np
+a=np.arange(10,100,10)
+a.reshape(2,3)
+np.linspace(10,100,10)
+np.linspace()
+b=np.arange(10,100,10)
+a.reshape(2,3)
+np.linspace(10,100,10)
+np.linspace()
+print(b)
+c=np.copy(a)
+c=np.insert(a)
+b=np.array()
